@@ -1,0 +1,42 @@
+<html>
+<head>
+<title> forms </title>
+</head>
+<body>
+<center>
+<h1> 1stFORM </H1>
+<br>
+<form>
+<label> first name : </label>
+<input type = "text" min length ="5" max length = "20" 
+size ="20" > 
+<br>
+<br>
+
+<label> last name : </label>
+<input type = "text" min length ="5" max length = "20" 
+size ="20" > 
+
+<br>
+<br>
+
+<label> e-mail : </label>
+<input type = "text"  
+size ="20" > 
+<br>
+<br>
+<label> password : </label>
+<input type = "password"  name = "password" id = "password"
+ > 
+<br>
+<br>
+<button> login  </button> 
+ <br>    
+
+
+<center>
+
+
+
+</body>
+</html>
